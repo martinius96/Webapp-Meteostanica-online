@@ -11,9 +11,8 @@
 * ENC28J60![alt text](https://i.nahraj.to/f/20ae.jpg)
 # Periférie
 * DS18B20 - senzor teploty na OneWire zbernici![alt text](https://arduino.php5.sk/images/ds18b20.jpg)
-* DHT12/22 - senzor teploty a vlhkosti![alt text](https://f.allegroimg.com/s128/01ad46/79ebedbe43a48af1bd290273503f)
-* Si7021 - senzor teploty a vlhkosti![alt text](https://i.nahraj.to/f/20hj.jpg)
-* BMP 85/180/280 - senzor teploty, tlaku vzduchu![alt text](http://www.robotop.lv/1609-home/bmp280-33-digital-barometric-pressure-altitude-sensor-i2c-spi.jpg)
+* DHT22 - senzor teploty a vlhkosti![alt text](https://f.allegroimg.com/s128/01ad46/79ebedbe43a48af1bd290273503f)
+* BMP280 - senzor teploty, tlaku vzduchu![alt text](http://www.robotop.lv/1609-home/bmp280-33-digital-barometric-pressure-altitude-sensor-i2c-spi.jpg)
 # Podporované protokoly na prenos
 * HTTP Arduino a Ethernet moduly
 * HTTPS NodeMCU/ESP32
